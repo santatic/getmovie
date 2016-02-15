@@ -1,0 +1,37 @@
+.form .movie-chaps .chap,
+.form .movie-chaps .server,
+.form .movie-chaps .part{
+	padding: 5px;
+	margin: 5px;
+	border-radius: 4px;
+	min-width: 35px;
+	border: 1px solid #DADADA;
+	box-shadow: 0px 2px 1px rgba(0,0,0,.2);
+	opacity: 0.9;
+	background: #fff;
+	cursor: pointer;
+	font-weight: bold;
+}
+.form .movie-chaps .part{
+	text-align: center;
+	display: inline-block;
+}
+.form .movie-chaps .part.nocache{
+	border-left: 3px solid #F00;
+}
+.form .movie-chaps .part.alert{
+	color: #d4003a;
+	background: #eee;
+}
+.form .movie-chaps .chap:hover,
+.form .movie-chaps .server:hover,
+.form .movie-chaps .part:hover{
+	opacity: 1;
+	box-shadow: none;
+}
+.form .movie-chaps .name:hover{
+	color: #428bca;
+}
+.form img{
+	width: 100%;
+}
