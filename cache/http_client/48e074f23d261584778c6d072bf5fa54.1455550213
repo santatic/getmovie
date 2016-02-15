@@ -1,0 +1,402 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+    <title>
+        Phim Đại Thánh trở về - Xem phim Đại Thánh trở về online
+    </title>
+    <meta name="description" content="bộ phim được dàn dựng dựa theo cuốn tiểu thuyết tây du ký của nhà văn ngô thừa ân, song có nhiều chi tiết mới">
+    <meta name="keywords" content="phim đại thánh trở về, xem phim đại thánh trở về">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="content-language" content="vi" />
+    <meta name="robots" content="noodp,index,follow" />
+    <meta name="revisit-after" content="1 days" />
+    <link rel="stylesheet" type="text/css" href="http://phimhay365.com/skin/style.css">
+<link rel="shorcut icon" href="http://phimhay365.com/images/icon365.ico" />
+
+    <script src="http://phimhay365.com/skin/xps.js" type="text/javascript"></script>
+
+    <script src="http://phimhay365.com/skin/beacon.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28040602-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+    </script>
+	<!--ballon-->
+	
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/2627062/phimhay365.com_300x250', [300, 250], 'div-gpt-ad-1429523988997-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+	<!--het ballon-->
+	<script src="http://phimhay365.com/popup_pc1.js" type="text/javascript"></script>
+</head>
+<body onclick="return vkppp();">
+    <form name="form1" method="post" action="Default.aspx?NewID=6869" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMxNzIwNjc0NWRkj3tBiybNxLIp53rulPfLuXgt2/c=" />
+</div>
+
+        <div id="wrapper">
+            <div id="header">
+                <a id="logo" title="Phim hay" href="http://phimhay365.com/"><img src="http://phimhay365.com/images/phimhay365.png" border=0 /></a>
+                <div id="searchbar">
+                    <input type="text" size="50" class="textbox" id="lookup_input" name="lookup_input"
+                        onkeypress="return runScript(event)" />
+                    <a class="button rc-btn" onclick="return searchStock();"></a>
+
+                    <script language="javascript" type="text/javascript">
+                       
+                          function locdau(str) {  
+                              str= str.toLowerCase();  
+                              str= str.replace(/à|á|ạ|ả|ã|â|ầ|ấ|ậ|ẩ|ẫ|ă|ằ|ắ|ặ|ẳ|ẵ/g,"a");  
+                              str= str.replace(/è|é|ẹ|ẻ|ẽ|ê|ề|ế|ệ|ể|ễ/g,"e");  
+                              str= str.replace(/ì|í|ị|ỉ|ĩ/g,"i");  
+                              str= str.replace(/ò|ó|ọ|ỏ|õ|ô|ồ|ố|ộ|ổ|ỗ|ơ|ờ|ớ|ợ|ở|ỡ/g,"o");  
+                              str= str.replace(/ù|ú|ụ|ủ|ũ|ư|ừ|ứ|ự|ử|ữ/g,"u");  
+                              str= str.replace(/ỳ|ý|ỵ|ỷ|ỹ/g,"y");  
+                              str= str.replace(/đ/g,"d");  
+                              str= str.replace(/!|@|%|\^|\*|\(|\)|\+|\=|\<|\>|\?|\/|,|\.|\:|\;|\'| |\"|\&|\#|\[|\]|~|$|_/g,"-"); 
+                            /* tìm và thay thế các kí tự đặc biệt trong chuỗi sang kí tự - */ 
+                              str= str.replace(/-+-/g,"-"); //thay thế 2- thành 1- 
+                              str= str.replace(/^\-+|\-+$/g,"");  
+                            //cắt bỏ ký tự - ở đầu và cuối chuỗi  
+                           
+                              return str;  
+                          }   
+                     
+                            function runScript(e) {
+                                if (e.keyCode == 13) {
+                                    var vGameName = document.getElementById("lookup_input").value.trim();
+                                    if (vGameName=="")
+                                    {
+                                        alert("Nhap ten phim");
+                                        return false;
+                                    }
+                                    vGameName = locdau(vGameName);
+                                  
+                                    var vURL = "http://phimhay365.com/tags/" + vGameName + "/index.html";
+                                    location.href =vURL;
+                                    
+                                    return false;
+                                }
+                            }
+                            function searchStock()
+                            {
+                                var vGameName = document.getElementById("lookup_input").value.trim();
+                               if (vGameName=="")
+                                    {
+                                        alert("Nhap ten phim");
+                                         return false;
+                                    }
+                                vGameName = locdau(vGameName);
+                                
+                                var vURL = "http://phimhay365.com/tags/" + vGameName + "/index.html";
+                                location.href =vURL;
+                                return false;
+                            }
+                            
+                    </script>
+
+                </div>
+                <div id="search_suggestion">
+                    
+                </div>
+            </div>
+            <div id="menu" class="rc-btn">
+                
+<ul class="fa_nav">
+            <li><span><a title="Phim Hay" href="http://phimhay365.com/">Phim Hay</a></span></li>
+           
+            <li class="hover"><span><a href="http://phimhay365.com/phim-moi/">Phim Mới</a></span></li>
+            <li class="hover"><span><a href="http://phimhay365.com/phim-chieu-rap/">Phim Chiếu Rạp</a></span></li>
+            <li class="hover"><span><a href="http://phimhay365.com/phim-hanh-dong-my/">Hành Động Mỹ</a></span></li>
+            <li class="hover"><span><a href="http://phimhay365.com/phim-kinh-di/">Kinh Dị</a></span></li>
+            <li class="hover"><span><a href="http://phimhay365.com/phim-vo-thuat/">Võ Thuật</a></span></li>
+            <li class="hover"><span><a href="http://phimhay365.com/phim-hoat-hinh/">Hoạt Hình</a></span></li>
+            <li class="hover"><span><a href="http://phimhay365.com/phim-hd/">Phim HD</a></span></li>
+            <li class="hover"><span><a href="http://phimhay365.com/phim-bo/">Phim Bộ</a></span></li>
+            
+
+       </ul>
+            </div>
+			
+            <div id="txtHD"></div>
+            
+            <div id="content" class="clear">
+                <!-- MENU RIGHT -->
+                <div id="sidebar">
+					
+					<div class="block ann" id="ann">
+						<div class="top"></div>
+						 <div class="body">
+                            <div class="title">
+                                <h2>
+                                    LIÊN HỆ QUẢNG CÁO</h2>
+                            </div>
+                            <div class="content_show">
+                                <div class="content entry">
+                                    <img src="http://phimhay365.com/images/email.jpg" />
+                                </div>
+                            </div>
+                        </div>
+						<div class="bottom"></div>
+					</div>
+				
+					
+					<div style="padding-top:5px"></div>
+					
+                    <div class="sidebar top-cine">
+                        
+<div class="sidebartitle" style="padding: 0px !important; text-align: center">
+                            <h3>
+                                Các Thể Loại Phim Hay</h3>
+                        </div>
+                        <div class="s-inside">
+                            <ul id="TheLoai1_txtContent1"><li><h3><a title='Tâm lý' href='http://phimhay365.com/home/phim-tam-ly/'>Tâm lý</a></h3></li><li><h3><a title='Võ Thuật' href='http://phimhay365.com/phim-vo-thuat/'>Võ Thuật</a></h3></li><li><h3><a title='Hành Động Mỹ' href='http://phimhay365.com/phim-hanh-dong-my/'>Hành Động Mỹ</a></h3></li><li><h3><a title='Kinh Dị' href='http://phimhay365.com/phim-kinh-di/'>Kinh Dị</a></h3></li><li><h3><a title='Viễn tuởng' href='http://phimhay365.com/home/vien-tuong/'>Viễn tuởng</a></h3></li><li><h3><a title='Cổ Trang' href='http://phimhay365.com/home/co-trang/'>Cổ Trang</a></h3></li><li><h3><a title='Phiêu Lưu' href='http://phimhay365.com/home/phim-phieu-luu/'>Phiêu Lưu</a></h3></li><li><h3><a title='Chiến Tranh' href='http://phimhay365.com/home/chien-tranh/'>Chiến Tranh</a></h3></li></ul>
+                        </div>
+                        <div class="s-inside">
+                            <ul id="TheLoai1_txtContent2" class="clear"><li><h3><a title='Hoạt Hình' 	href='http://phimhay365.com/phim-hoat-hinh/'>Hoạt Hình</a></h3></li><li><h3><a title='Hài Hước' 	href='http://phimhay365.com/home/phim-hai-huoc/'>Hài Hước</a></h3></li><li><h3><a title='Tình Cảm' 	href='http://phimhay365.com/home/tinh-cam/'>Tình Cảm</a></h3></li><li><h3><a title='Hình Sự' 	href='http://phimhay365.com/home/phim-hinhsu/'>Hình Sự</a></h3></li><li><h3><a title='Phim Lẻ' 	href='http://phimhay365.com/phim-le/'>Phim Lẻ</a></h3></li><li><h3><a title='Thần Thoại' 	href='http://phimhay365.com/home/than-thoai/'>Thần Thoại</a></h3></li><li><h3><a title='Tội Phạm' 	href='http://phimhay365.com/home/phim-toi-pham/'>Tội Phạm</a></h3></li><li><h3><a title='phim thanh long' 	href='http://phimhay365.com/phim-thanh-long/'>Phim Thành Long</a></h3></li></ul>
+                        </div>
+                    </div>
+                    <div class="sidebar top-cine">
+                        
+
+                        <div class="sidebartitle" style="padding: 0px !important; text-align: center">
+                            <h3>Quốc Gia</h3>
+                        </div>
+                        <div class="s-inside">
+                            <ul id="QuocGia1_txtContent1"><li><h3><a title='Việt Nam' 	href='http://phimhay365.com/quocgia/viet-nam/'>Việt Nam</a></h3></li><li><h3><a title='Trung Quốc' 	href='http://phimhay365.com/quocgia/trung-quoc/'>Trung Quốc</a></h3></li><li><h3><a title='Hàn Quốc' 	href='http://phimhay365.com/quocgia/han-quoc/'>Hàn Quốc</a></h3></li><li><h3><a title='Nhật Bản' 	href='http://phimhay365.com/quocgia/nhat-ban/'>Nhật Bản</a></h3></li><li><h3><a title='Mỹ' 	href='http://phimhay365.com/phim-hanh-dong-my/'>Mỹ</a></h3></li></ul>
+                        </div>
+                        <div class="s-inside">
+                            <ul id="QuocGia1_txtContent2" class="clear"><li><h3><a title='Châu Á' 	href='http://phimhay365.com/quocgia/chau-a/'>Châu Á</a></h3></li><li><h3><a title='Châu Âu' 	href='http://phimhay365.com/quocgia/chau-au/'>Châu Âu</a></h3></li><li><h3><a title='Thái Lan' 	href='http://phimhay365.com/quocgia/thai-lan/'>Thái Lan</a></h3></li><li><h3><a title='Hồng Kông' 	href='http://phimhay365.com/quocgia/hong-kong/'>Hồng Kông</a></h3></li></ul>
+                        </div>
+                   
+                    </div>
+                    <div id="PhimDeCu1_txtTop" class="top-cine2 sidebar clear rc-top-btn">
+    <div class="sidebartitle">
+        <h2 id="PhimDeCu1_txtTitle" class="title-last">
+            Phim Hay Đề Cử</h2>
+    </div>
+    <div class="s_content clear">
+        <ul id="PhimDeCu1_txtContent" class="listcontent"><li class="item">
+<div class="thumb">
+<a class="img" href="http://phimhay365.com/phim/co-dau-8-tuoi/" >
+<p><img border=0 alt='phim  Cô Dâu 8 Tuổi'  width="200" height="301" src="/userfiles/image/tamly/co-dau-8-tuoi.jpg" alt="" /></p></a>
+</div>
+<a class="title" href="http://phimhay365.com/phim/co-dau-8-tuoi/" > Cô Dâu 8 Tuổi</a>
+</li>
+<li class="item">
+<div class="thumb">
+<a class="img" href="http://phimhay365.com/phim/huyen-thoai-ragnarok/" >
+<p><img border=0 alt='phim Huyền Thoại Ragnarok'  width="200" height="285" alt="" src="/userfiles/image/phieuluu/huyen-thoai-ragnarok.jpg" /></p></a>
+</div>
+<a class="title" href="http://phimhay365.com/phim/huyen-thoai-ragnarok/" >Huyền Thoại Ragnarok</a>
+</li>
+<li class="item">
+<div class="thumb">
+<a class="img" href="http://phimhay365.com/phim/cam-on-cuoc-doi/" >
+<p><img border=0 alt='phim Cám Ơn Cuộc Đời'  width="180" height="257" src="/userfiles/image/tinhcam/cam-on-cuoc-doi(1).jpg" alt="" /></p></a>
+</div>
+<a class="title" href="http://phimhay365.com/phim/cam-on-cuoc-doi/" >Cám Ơn Cuộc Đời</a>
+</li>
+<li class="item">
+<div class="thumb">
+<a class="img" href="http://phimhay365.com/phim/nhung-nguoi-thua-ke/" >
+<p><img border=0 alt='phim Những Người Thừa Kế'  src="/userfiles/image/tinhcam/nguoi-thua-ke.jpg" width="190" height="266" alt="" />&nbsp;</p></a>
+</div>
+<a class="title" href="http://phimhay365.com/phim/nhung-nguoi-thua-ke/" >Những Người Thừa Kế</a>
+</li>
+<li class="item">
+<div class="thumb">
+<a class="img" href="http://phimhay365.com/phim/bad-boys-j/" >
+<p><img border=0 alt='phim Bad Boy J'  src="/userfiles/image/tinhcam/bad-boy-j-2013.jpg" width="200" height="296" alt="" /></p></a>
+</div>
+<a class="title" href="http://phimhay365.com/phim/bad-boys-j/" >Bad Boy J</a>
+</li>
+<li class="item">
+<div class="thumb">
+<a class="img" href="http://phimhay365.com/phim/dao-hai-tac/" >
+<p><img border=0 alt='phim  Đảo Hải Tặc'  src="/userfiles/image/phieuluu/dao-hai-tac.jpg" width="200" height="296" alt="" /></p></a>
+</div>
+<a class="title" href="http://phimhay365.com/phim/dao-hai-tac/" > Đảo Hải Tặc</a>
+</li>
+</ul>
+    </div>
+    <div id="PhimDeCu1_txtXemTiep" class="s_bottom bottomcontent"></div>
+</div>
+
+                    
+					<div class="sidebar top-cine">
+                        <div class="sidebartitle" style="padding: 0px !important; text-align: center">
+                            <h3><a href="http://khogamemobile.com">Game Mobile Hay</a></h3>
+                        </div>
+                        <div class="s-inside">
+                            <ul>
+                                <li>Game <a href="http://bigkoolonline.com/" title="BigKool" target="_blank">BigKool</a> cho Android,iOS</li>
+                                <li>Cung <a href="http://taiivegas.com/" title="tai game ivegas" target="_blank">tai game ivegas</a> moi nhat cho mobile</li>
+								<li>Choi <a href="http://gamebigkool.info" target="_blank" title="game bigkool">game bigkool</a> mien phi</li>
+								<li>web <a href="http://taiarmy.info" title="tai army" target="_blank"  >tai army</a> moi nhat</li>
+								
+
+								
+                            </ul>
+                        </div>
+                        <div class="s-inside">
+                            <ul class="clear">
+                                <li><a href="http://taiibet88.biz" title="tai ibet88" target="_blank">tai ibet88</a> cho moi may dien thoai</li>
+                                <li>Phien ban <a href="http://bigkool2014.net/" title="Game BigKool 2014" target="_blank">BigKool 2014</a> moi nhat</li>
+                                <li>Link <a href="http://taibigone.info" title="choi bigone" target="_blank">tai bigone</a> tren may tinh</li>
+                                
+                                <li>web <a href="http://bigkool2015.info" title="tai bigkool 2015" target="_blank">Tai bigkool 2015</a> moi nhat</li>
+                            </ul>
+                        </div>
+                    </div>
+					
+                </div>
+                <!-- MENU LEFT -->
+                <div id="maincontent">
+                    <div id="ad_top">
+                        <div class="block ad">
+                        </div>
+                    </div>
+                    <div id="vContentHome"><div class="content rc-btn">
+<div class="bartitle">
+<div class="breadcrumbs">
+<div xmlns:v="http://rdf.data-vocabulary.org/#"><h1>
+<span typeof="v:Breadcrumb">
+<a href="http://phimhay365.com/" rel="v:url" property="v:title">
+Trang chủ</a> » </span><span typeof="v:Breadcrumb"><a href="http://phimhay365.com/phim-hoat-hinh/" rel="v:url" property="v:title">Hoạt hình</a> » </span><span typeof="v:Breadcrumb"><a href="http://phimhay365.com/phim/dai-thanh-tro-ve/" rel="v:url" property="v:title">Đại Thánh trở về</a></span></h1></div>
+</div>
+</div>
+<div class="thumbcontent">
+<div class="box_img"><p><img width="214" height="300" alt="" src="/userfiles/image/hoathinh/dai-thanh-tro-ve.jpg" /></p></div>
+<div class="box_info">
+<span class="key">Tên Phim:</span><h1><span class="value">Đại Thánh trở về</span></h1>
+<span class="key">Đạo diễn:</span><span class="value">Tian Xiao Peng</span>
+<span class="key">Diễn viên:</span><span class="value">Feodor Chin, Nika Futterman, James Hong, David S. Jung, Kannon Kurowski, Zijie Lin, Jiurong Liu, Jon Olson, Joey Richter, Stephanie Sheh, Michael Sinterniklaas, Roger Craig Smith, Zirong Tong, Lei Zhang</span>
+<span class="key">Thời Lượng:</span><span class="value">89 phút</span>
+<span class="key">Năm Phát Hành:</span><span class="value">2015</span>
+<span class="key">Thể loại:</span><span class="value"><a href="http://phimhay365.com/phim-hoat-hinh/">Hoạt hình</a>, </span>
+<span class="key" style='color:#FFFFFF;font-weight:bold'>Để xem phim nhanh hơn click</span><span class="value"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/vi_VN/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like" data-href="http://phimhay365.com/phim/dai-thanh-tro-ve/" data-send="true" data-layout="button_count" data-width="200" data-show-faces="true"></div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<g:plusone size="medium" annotation="inline"></g:plusone>
+<script type="text/javascript">
+window.___gcfg = {lang: 'vi'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script><span class="key"><a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://phimhay365.com');" href="http://phimhay365.com/xem-phim/dai-thanh-tro-ve/"><img src="http://phimhay365.com/img/watch_now_new.png"></a>
+</span>
+</div>
+<div id="gach_ngang" class="box_des">
+Bộ phim được dàn dựng dựa theo cuốn tiểu thuyết Tây Du Ký của nhà văn Ngô Thừa Ân, song có nhiều chi tiết mới
+<p style="text-align: justify;">Mặc d&ugrave; trong phim c&ograve;n c&oacute; &ldquo;sạn&rdquo;, bị một số nh&agrave; ph&ecirc; b&igrave;nh chỉ tr&iacute;ch nội  dung qu&aacute; đơn giản, phim vẫn nhận được sự hưởng ứng nhiệt t&igrave;nh của c&ocirc;ng  ch&uacute;ng, đặc biệt l&agrave; từ c&aacute;c fan d&ograve;ng phim hoạt h&igrave;nh. Phim lấy bối cảnh sau  khi T&ocirc;n Đại Th&aacute;nh trở về từ thi&ecirc;n đ&igrave;nh chiến đấu với Thi&ecirc;n Binh Vạn  M&atilde;...</p>
+<div style="overflow: hidden; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); text-align: justify; text-decoration: none; border: medium none;">&nbsp;</div>
+</div>
+</div>
+</div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/vi_VN/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like" data-href="http://phimhay365.com/phim/dai-thanh-tro-ve/" data-send="true" data-layout="button_count" data-width="200" data-show-faces="true"></div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<g:plusone size="medium" annotation="inline"></g:plusone>
+<script type="text/javascript">
+window.___gcfg = {lang: 'vi'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script></div>
+                </div>
+            </div>
+            ﻿<center>
+                <div id="footer" class="rc-top-btn">
+                    <div class="copyright">
+                        Copyright © 2012 <a href="http://phimhay365.com/" title="phim hay">Phim Hay 365</a>
+                        - All rights reserved.
+						<br/>
+						Mọi dữ liệu về phim trên website này đều được chúng tôi và các thành viên tham gia website tổng hợp từ các host như Google, Youtube, DailyMotion, Veoh, Megavideo, Youku, Clipvn, Blogcomvn, Tamtay, Stage6, MySpace, Bolt, Guba, OUOU,... Do đó, chúng tôi không chịu trách nhiệm về những dữ liệu được chia sẻ tại đây.
+<br/>
+						PhimHay365.Com is not responsible for any content linked to or referred to in this site. None of the video files are hosted on our servers; they are indexed and embedded in a fashion similar to Google and other popular search engines. All clips are collected from and hosted by Google, Youtube, DailyMotion, Veoh, Megavideo, Youku, Clipvn, Blogcomvn, Tamtay, Stage6, MySpace, Bolt, Guba, OUOU, and many others respected providers. If you believe your copyrighted content is showing on PhimHay365.Com<br/>
+						<a title="lap dat mang fpt quan tan binh, lắp đặt internet fpt quận tân bình, dang ky mang fpt tan binh, đăng ký cáp quang FPT Tân Bình, lap dat cap quang quan tan binh, fpt quan tan binh, internet FPT Quận Tân Bình" href="http://fpt.center/76-lap-dat-internet-fpt-quan-tan-binh-sieu-khuyen-mai-2016-a.html" target="_blank"> cáp quang Quận Tân Bình</a>, 
+									<a href="http://hayphim.tv/" rel="dofollow" title="xem phim hay">phim hay</a>,
+<a style="color: white !important;" href="http://www.tuoithodudoi.com/" title="doc truyen Online tai Tuoi Tho Du Doi">Doc truyen Online</a>,
+ <a href="http://thietkenha.asia" tag="nha xinh" rel="dofollow" title="nha xinh" target="blank">nha xinh</a>,
+<a href="http://nhaxinh.pro" tag="thiet ke nha, thiet ke nha dep" rel="dofollow" style="color:red;font-size:15px" title="thiet ke nha">thiet ke nha</a>,
+	<a rel="dofollow" href="http://phimvtv.org" title="xem phim hay, phim hay" target="_blank"><strong>Phim hay</strong></a>
+<a href="http://truyentinhyeu.info" title="truyen tinh yeu">truyen tinh yeu</a> hay, <a href="http://truyentinhyeu.info/truyen-ma/" title="truyen ma">truyen ma</a> kinh
+                                    di,Doc <a title="Truyen Hay" href="http://truyenhay365.com">Truyen Hay</a> tren Mobile, 
+                                    tai <a title="ionline" href="http://gameionline.biz">iOnline</a> mien phi
+									
+
+                    </div>
+            </center>
+            <div style="clear: both">
+                <br />
+            </div>
+        </div>
+        
+	
+
+    </form>
+	 <!--dat anh popup cho VNG-->
+	 <img src=" https://ad.doubleclick.net/ddm/ad/N135802.1939900PHIMHAY365/B8709353.117745039;sz=10x10;ord=[timestamp]?" width=0; height=0 />
+	 <!--dat anh popup cho VNG-->
+
+       <div style="position: fixed; top: 0px; right: 10px; height: 600px; width: 120px; overflow: hidden; " id="BG_rightBanner"><div style="position:relative;width:100%;height:100%;display:block"><div style="position:absolute;left:1px;top:0px"><div>
+<a href="https://www.w88top.com/?affiliateid=24170" target="_blank"><img src="http://phimhay365.com/ad/phai2801.gif" border=0></a> 
+
+</div></div></div></div>
+
+
+<div style="position: fixed; top: 0px; left: 0px; height: 600px; width: 160px; overflow: hidden; " id="BG_leftBanner"><div style="position:relative;width:100%;height:100%;display:block"><div style="position:absolute;right:1px;top:0px"><div>
+<a href="http://affiliate.w88top.com/Track.aspx?affiliateid=74" target="_blank"><img src="http://phimhay365.com/ad/trai2801.gif" border=0></a> 
+</div></div></div></div>
+
+
+
+</body>
+</html>
